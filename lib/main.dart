@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: const Color(0xFF6F43C0),
           title: const Center(
             child: Text(
-              'CP-SP LED MATRIX',
+              'LED MATRIX',
               style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
             ),
           ),
